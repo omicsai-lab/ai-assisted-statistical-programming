@@ -1,0 +1,9 @@
+id,group,age,baseline,followup
+1,Control,34.0,7.1,7.4
+2,control,50.0,6.8,6.9
+3,Treatment,29.0,7.5,8.0
+4,treat,41.0,7.0,7.8
+5,Treatment,,8.2,8.7
+6,Control,62.0,6.9,
+7,treat,37.0,,8.1
+8,control,45.0,7.4,7.5
