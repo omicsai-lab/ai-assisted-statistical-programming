@@ -1,0 +1,10 @@
+library(readr)
+library(dplyr)
+
+clinic <- read_csv("data_raw/clinic_visits.csv", show_col_types = FALSE)
+print(dim(clinic))
+print(names(clinic))
+glimpse(clinic)
+print(head(clinic))
+str(clinic)
+print(colSums(is.na(clinic)))
