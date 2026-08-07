@@ -1,5 +1,7 @@
 # AI-Assisted Statistical Programming — Companion Code and Prompt Library
 
+[![DOI](https://zenodo.org/badge/1320501797.svg)](https://doi.org/10.5281/zenodo.21837517)
+
 Companion repository for **AI-Assisted Statistical Programming: R and Python Workflows for Data Analysis, Debugging, and Verification** by **James Li**.
 
 This repository is designed to support readers, students, and instructors who want to run the examples from the book, compare R and Python workflows, and reuse the prompt templates for AI-assisted statistical programming.
